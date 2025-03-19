@@ -35,7 +35,7 @@ namespace Task9
                     break;
                 }
             }
-
+            //
             if (isAllDigits)
             {
                 Console.WriteLine("Строка содержит только цифры.");
